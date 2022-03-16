@@ -1,0 +1,2 @@
+# ediary-text
+eDiary text
